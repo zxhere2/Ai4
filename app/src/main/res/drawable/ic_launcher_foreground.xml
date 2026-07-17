@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center the shield logo inside 108x108 with 66dp bounds -->
+    <path
+        android:pathData="M54,24 L78,34 L78,58 C78,72 66,81 54,85 C42,81 30,72 30,58 L30,34 Z"
+        android:fillColor="#E0E1DD" />
+    <path
+        android:pathData="M54,28 L74,36 L74,58 C74,70 64,78 54,81.5 C44,78 34,70 34,58 L34,36 Z"
+        android:fillColor="#1B263B" />
+    <!-- AI Core inside the shield -->
+    <path
+        android:pathData="M54,42 C58.4,42 62,45.6 62,50 C62,54.4 58.4,58 54,58 C49.6,58 46,54.4 46,50 C46,45.6 49.6,42 54,42 Z"
+        android:fillColor="#80ED99" />
+    <path
+        android:pathData="M54,45 C56.8,45 59,47.2 59,50 C59,52.8 56.8,55 54,55 C51.2,55 49,52.8 49,50 C49,47.2 51.2,45 54,45 Z"
+        android:fillColor="#1B263B" />
+    <path
+        android:pathData="M54,48 C55.1,48 56,48.9 56,50 C56,51.1 55.1,52 54,52 C52.9,52 52,51.1 52,50 C52,48.9 52.9,48 54,48 Z"
+        android:fillColor="#80ED99" />
+    <!-- Cyber core radiating crossbars -->
+    <path
+        android:pathData="M53,38 H55 V42 H53 Z M53,58 H55 V62 H53 Z M38,49 H42 V51 H38 Z M58,49 H62 V51 H58 Z"
+        android:fillColor="#80ED99" />
+</vector>
